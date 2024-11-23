@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.util.Random;
 
 /**
- *
+ * TEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST
  * @author Joachim Parrow 2010 rev 2011, 2012, 2013, 2015, 2016
  *
  *         Simulator for two balls
